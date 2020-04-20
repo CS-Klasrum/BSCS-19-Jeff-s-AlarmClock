@@ -1,5 +1,5 @@
 # BSCS-Jeff-s-AlarmClock
-For final exam
+Jeff Michael Olarve
 # { Jeff's Alarm Clock}
 
 {For Final Exam }
